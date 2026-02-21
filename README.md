@@ -5,10 +5,6 @@
 
 A comprehensive matrix operations program written in C that performs addition, multiplication, and transpose operations on matrices. This project demonstrates modular programming using functions and 2D arrays.
 
-## 🔢 Live Demo
-
-[Add your video explanation link here - Remember to post on LinkedIn as per internship instructions]
-
 ## 📋 Overview
 
 This program provides a complete matrix manipulation toolkit that allows users to perform various operations on matrices of custom dimensions. With a menu-driven interface, users can easily input matrices and perform operations with proper dimension validation.
